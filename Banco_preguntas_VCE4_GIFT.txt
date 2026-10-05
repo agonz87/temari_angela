@@ -1,0 +1,783 @@
+// Banc de preguntes — Educació en valors cívics i ètics (VCE4), 4t d'ESO
+// Format GIFT per importar a Moodle. Codificació UTF-8.
+// Importació: Banc de preguntes > Importa > Format GIFT. Es creen 4 categories sota «Temari VCE4», una per bloc.
+// Són preguntes d'autoavaluació de comprensió. Surten del contingut de cada sessió; no hi ha proves qualificables.
+
+$CATEGORY: Temari VCE4/01 Presentació de la matèria i de l'aprenentatge servei
+
+// Sessió 1: La matèria i el projecte «Obrint Camins»
+::B1-01:: Quines dues parts formen la nota final de la matèria? {
+=Diari d'aprenentatge (50 per cent) i producte final (50 per cent)
+~Dos exàmens escrits de 50 per cent cadascun
+~Participació oral (50 per cent) i assistència (50 per cent)
+~Només el producte final, el diari no compta
+}
+
+::B1-02:: On es fa el servei a la comunitat? {
+=En una entitat, fora de l'horari lectiu
+~A l'aula, durant les sessions de la matèria
+~A casa, de manera individual i sense entitat
+~A l'institut, només amb l'alumnat de 4t
+}
+
+::B1-03:: Quin és el lema del projecte «Obrint Camins»? {
+=Entendre l'entorn, pensar críticament i passar a l'acció
+~Memoritzar, repetir i aprovar
+~Competir, guanyar i destacar
+~Observar, copiar i entregar
+}
+
+// Sessió 2: Què és i què no és l'aprenentatge servei
+::B1-04:: Què diferencia l'APS del voluntariat? {
+=L'APS té un aprenentatge intencionat i reflexionat, a més del servei
+~El voluntariat és sempre obligatori i l'APS és lliure
+~L'APS no ajuda ningú, només s'aprèn
+~El voluntariat només es fa a escoles
+}
+
+::B1-05:: Una sortida a conèixer un barri on només es prenen apunts, sense fer cap servei, és... {
+=Treball de camp
+~Aprenentatge servei
+~Voluntariat
+~Una iniciativa solidària
+}
+
+::B1-06:: Quina és la primera fase d'un projecte d'APS? {
+=Preparació
+~Realització del servei
+~Presentació final
+~Avaluació de la nota
+}
+
+// Sessió 3: El diari d'aprenentatge i el full de ruta del curs
+::B1-07:: Quin pes té el diari d'aprenentatge a la nota final? {
+=50 per cent
+~20 per cent
+~80 per cent
+~100 per cent
+}
+
+::B1-08:: Quina d'aquestes frases és una reflexió i no un resum? {
+=He entès que el que fa diferent l'APS és que s'aprèn mentre s'ajuda
+~Avui hem parlat de l'APS
+~Hem fet una activitat a classe
+~Hem mirat unes diapositives
+}
+
+::B1-09:: Quan ha d'estar preparada l'entitat i les activitats? {
+=A finals d'octubre, perquè alguns alumnes comencen el servei al novembre
+~A final de curs
+~Després d'acabar el servei
+~No cal preparar-les
+}
+
+$CATEGORY: Temari VCE4/02 Context social i preparació del servei
+
+// Sessió 4: Santa Coloma de Gramenet: la nostra ciutat
+::B2-01:: Què és una dada? {
+=Informació mesurable i amb una font identificable
+~Una opinió que té molta gent
+~Una frase que surt a les xarxes
+~Allò que ens sembla que passa
+}
+
+::B2-02:: Quina d'aquestes és una font fiable per buscar informació sobre la població d'una ciutat? {
+=Idescat
+~Un comentari anònim en un fòrum
+~Un vídeo viral sense font
+~Una cadena de missatges
+}
+
+::B2-03:: Què hem d'evitar quan parlem d'un barri? {
+=Generalitzar i estigmatitzar les persones que hi viuen
+~Citar la font de les dades
+~Mirar l'any de les dades
+~Parlar de causes i desigualtats
+}
+
+// Sessió 5: Necessitats socioeconòmiques
+::B2-04:: Què és una necessitat social? {
+=Allò sense el qual una persona no pot viure amb dignitat
+~Qualsevol cosa que ens agradaria tenir
+~Una moda del moment
+~Un producte que fa publicitat
+}
+
+::B2-05:: Per què una mitjana pot enganyar? {
+=Perquè pot amagar grans diferències entre persones o barris
+~Perquè sempre és falsa
+~Perquè només compta els rics
+~Perquè no es pot calcular
+}
+
+::B2-06:: Quina és la primera cosa que mirem d'una dada? {
+=La font i l'any
+~El color del gràfic
+~Si surt a les notícies
+~Si ens agrada el resultat
+}
+
+// Sessió 6: Problemàtiques socials i les seves causes
+::B2-07:: Què és la bretxa digital? {
+=No tenir dispositius, connexió o competències digitals
+~Tenir massa temps davant la pantalla
+~Utilitzar només xarxes socials
+~Una avaria d'internet puntual
+}
+
+::B2-08:: A l'arbre de problemes, què representen les arrels? {
+=Les causes del problema
+~Les solucions
+~Les conseqüències
+~Les persones afectades
+}
+
+::B2-09:: Un servei més útil actua principalment sobre... {
+=Les causes, no només els símptomes
+~Només les conseqüències visibles
+~Només l'opinió de la gent
+~El que ens sembla més fàcil
+}
+
+// Sessió 7: Associacionisme, entitats i voluntariat
+::B2-10:: Què és el moviment associatiu? {
+=Ciutadania que s'organitza per millorar la vida de la comunitat
+~Un partit polític
+~Una empresa que busca guanys
+~Un grup d'amics que juga a videojocs
+}
+
+::B2-11:: Una associació, a diferència d'una empresa, normalment... {
+=No té ànim de lucre
+~Reparteix beneficis entre socis
+~És sempre pública
+~No pot tenir voluntaris
+}
+
+::B2-12:: Per què el voluntariat és una manera de ciutadania activa? {
+=Perquè és participar i comprometre's amb el bé comú
+~Perquè dona nota extra
+~Perquè és obligatori
+~Perquè és una moda
+}
+
+// Sessió 8: Els col·lectius amb els quals treballarem
+::B2-13:: Quina expressió és més respectuosa? {
+=Persones amb discapacitat
+~Els discapacitats
+~Els pobrets
+~Els minusvàlids
+}
+
+::B2-14:: Què diferencia l'empatia de la llàstima? {
+=L'empatia comprèn l'altra persona; la llàstima la mira des de dalt
+~No hi ha cap diferència
+~La llàstima és millor que l'empatia
+~L'empatia vol dir pensar el mateix que l'altra persona
+}
+
+::B2-15:: Què aporta normalment la gent gran en una activitat intergeneracional? {
+=Experiència i memòria
+~Només necessitats
+~Res, perquè ja no treballen
+~Només ganes de descansar
+}
+
+// Sessió 9: L'entitat, l'actitud i el comportament al servei
+::B2-16:: Pots fer una foto d'un infant durant el servei i penjar-la a les xarxes? {
+=No, sense l'autorització corresponent
+~Sí, si surt bé
+~Sí, si no surt la cara
+~Només si no ho veu ningú
+}
+
+::B2-17:: Què fas si no pots anar un dia al servei? {
+=Aviso amb temps l'entitat i el professorat
+~No aviso, ja s'arreglaran
+~Deixo un missatge a un company per la nit
+~Vaig a mitja hora per compensar
+}
+
+::B2-18:: Una persona atesa t'explica una situació greu i et demana secret. Què fas? {
+=Aviso immediatament la persona responsable
+~Ho guardo en secret
+~Ho publico a les xarxes
+~Ho comento amb els companys de classe
+}
+
+// Sessió 10: Dissenyem el servei (I): objectius i activitats
+::B2-19:: Quin objectiu és més clar? {
+=Fer reforç de lectura a 3 nens durant 10 sessions perquè guanyin confiança
+~Ajudar els nens
+~Fer una bona acció
+~Passar el rato amb els infants
+}
+
+::B2-20:: Una activitat ha de respondre a... {
+=La necessitat real del col·lectiu
+~La nostra comoditat
+~El que ens fa gràcia
+~El que fa servir més materials
+}
+
+::B2-21:: Quina pregunta ètica és útil abans de planificar? {
+=Aquesta activitat pot fer mal o incomodar algú?
+~Això surt a les xarxes?
+~Quant trigarem a fer-ho?
+~Això ens donarà nota?
+}
+
+// Sessió 11: Dissenyem el servei (II): calendari, compromís i avaluació
+::B2-22:: Què inclou un bon calendari de servei? {
+=Activitats, responsables, dates i un pla B
+~Només l'hora d'inici
+~Només els noms dels alumnes
+~Res si ho recordem de memòria
+}
+
+::B2-23:: Què avaluem al final del servei? {
+=El servei i el nostre aprenentatge
+~Només si hem fet les hores
+~Només si ens ha agradat
+~Només la nota del professor
+}
+
+::B2-24:: Si hi ha desacord en un grup, què fem? {
+=Parlem dels arguments i busquem un acord
+~Decideix qui parla més fort
+~Votem sense escoltar
+~Ho deixem sense resoldre
+}
+
+$CATEGORY: Temari VCE4/03 Educació en valors cívics i ètics
+
+// Sessió 12: Què és l'ètica? Autonomia i responsabilitat moral
+::B3-01:: Què és l'ètica? {
+=La reflexió sobre per què una cosa és bona o dolenta
+~Un llistat de lleis
+~L'obediència a l'autoritat
+~El que fa la majoria
+}
+
+::B3-02:: Actuar només perquè hi ha por al càstig és... {
+=Heteronomia moral
+~Autonomia moral
+~Ètica filosòfica
+~Responsabilitat plena
+}
+
+::B3-03:: Pot una llei ser injusta? {
+=Sí, i per això cal la reflexió ètica
+~No, la llei sempre és justa
+~Només si no es compleix
+~Només en altres països
+}
+
+// Sessió 13: Com resoldre un dilema moral: un mètode
+::B3-04:: Què és un dilema moral? {
+=Una situació on cal triar entre opcions que defensen valors importants i incompatibles
+~Una pregunta amb resposta única
+~Una norma de convivència
+~Una discussió sense arguments
+}
+
+::B3-05:: Quin és el segon pas del mètode? {
+=Identificar els valors en conflicte
+~Decidir ràpidament
+~Buscar qui té la culpa
+~Votar
+}
+
+::B3-06:: Què ha de tenir una bona decisió? {
+=Raons, coherència i respecte
+~Que agradi a la majoria
+~Que sigui ràpida
+~Que no ho sàpiga ningú
+}
+
+// Sessió 14: Quan la moral i la llei no coincideixen
+::B3-07:: Què caracteritza la desobediència civil? {
+=És pública, pacífica, raonada i assumeix les conseqüències
+~És amagada i violenta
+~Busca un benefici propi
+~Evita les conseqüències
+}
+
+::B3-08:: Abans de desobeir una llei injusta, què cal buscar? {
+=Vies democràtiques com dialogar, denunciar o votar
+~Una excusa
+~Que ningú ho vegi
+~Que tothom ho faci
+}
+
+::B3-09:: Totes les lleis són sempre justes? {
+=No\: poden existir lleis injustes
+~Sí, perquè són lleis
+~Només les antigues són injustes
+~Només a altres països
+}
+
+// Sessió 15: Pensament crític: informació, fonts i desinformació
+::B3-10:: Quina d'aquestes és un fet? {
+=Aquest edifici té cinc plantes
+~Aquest edifici és lleig
+~Aquest edifici és el millor de la ciutat
+~Aquest edifici ens recorda tristesa
+}
+
+::B3-11:: Què és el biaix de confirmació? {
+=Creure més fàcilment allò que ja pensàvem
+~Comprovar sempre dues fonts
+~Canviar d'opinió cada dia
+~Creure només els experts
+}
+
+::B3-12:: Si una notícia et provoca molta ràbia, què és millor fer? {
+=Aturar-me i comprovar-la abans de compartir
+~Compartir-la ràpidament
+~Comentar-la sense llegir
+~Esborrar el compte
+}
+
+// Sessió 16: Xarxes socials: privacitat, identitat i addiccions
+::B3-13:: Què és la petjada digital? {
+=El rastre que deixem amb tot el que fem a internet
+~Una marca al dispositiu
+~Un virus
+~El temps d'ús d'una app
+}
+
+::B3-14:: Pots publicar una foto d'un company sense preguntar-li? {
+=No, cal el seu permís
+~Sí, si és una foto bona
+~Sí, si són amics
+~Sí, si no surt gaire
+}
+
+::B3-15:: Quin és un senyal d'ús problemàtic? {
+=Perdre el control del temps i afectar el son o els estudis
+~Parlar amb amics
+~Mirar notícies
+~Compartir una foto amb permís
+}
+
+// Sessió 17: Emocions i autoestima
+::B3-16:: Què és una autoestima ajustada? {
+=Conèixer capacitats i limitacions i valorar-se amb respecte
+~Creure's superior als altres
+~Menysprear-se per ser humil
+~No pensar en un mateix
+}
+
+::B3-17:: Quina funció pot tenir la ràbia? {
+=Avisar-nos d'una situació que percebem com a injusta
+~Cap, és una emoció dolenta
+~Justificar l'agressió
+~Fer-nos més forts
+}
+
+::B3-18:: Existeixen emocions «dolentes»? {
+=No\: n'hi ha d'agradables i desagradables, i totes tenen una funció
+~Sí, la por i la tristesa
+~Sí, la ràbia
+~Només en adolescents
+}
+
+// Sessió 18: Assertivitat i comunicació respectuosa
+::B3-19:: Quin estil de comunicació és assertiu? {
+=Dir el que penso i sento amb respecte
+~Callar-ho tot
+~Imposar el que penso
+~Ironitzar
+}
+
+::B3-20:: Quin és el primer pas de la fórmula assertiva? {
+=Descriure el fet sense jutjar
+~Acusar l'altre
+~Cridar
+~Marxar
+}
+
+::B3-21:: Què és l'escolta activa? {
+=Prestar atenció, no interrompre i comprovar què he entès
+~Esperar el torn per parlar
+~Dir sempre que sí
+~Mirar el mòbil mentre l'altre parla
+}
+
+// Sessió 19: Empatia i cura: amb un mateix, amb els altres i amb la natura
+::B3-22:: Què és l'empatia cognitiva? {
+=Comprendre què pensa o necessita l'altra persona
+~Sentir el mateix que l'altre
+~Tenir llàstima
+~Aconsellar sempre
+}
+
+::B3-23:: Què afegeix la compassió a l'empatia? {
+=El desig d'ajudar i actuar-hi
+~Res
+~La llàstima
+~L'obligació de resoldre-ho tot
+}
+
+::B3-24:: Per què és important cuidar-se un mateix en el servei? {
+=Perquè si em desgasto no puc ajudar
+~Perquè és egoista
+~Perquè no cal
+~Perquè no té importància
+}
+
+// Sessió 20: Convivència, normes i resolució pacífica de conflictes
+::B3-25:: Quina és la diferència entre conflicte i violència? {
+=El conflicte és un desacord; la violència és fer mal
+~Són el mateix
+~El conflicte sempre és violent
+~La violència és un desacord
+}
+
+::B3-26:: Què fa un mediador? {
+=Ajuda les parts a trobar una solució sense imposar-la
+~Decideix qui té raó
+~Castiga
+~Es posa a favor d'un dels dos
+}
+
+::B3-27:: Una norma és justa quan... {
+=Protegeix drets, és igual per a tothom i es pot justificar
+~La imposa qui té més poder
+~Beneficia el meu grup
+~Ningú la qüestiona
+}
+
+// Sessió 21: Democràcia, participació i decisions col·lectives
+::B3-28:: On resideix el poder en una democràcia? {
+=En la ciutadania
+~En una sola persona
+~En els més rics
+~En l'exèrcit
+}
+
+::B3-29:: Què és la democràcia representativa? {
+=Elegim persones que decideixen en nom de tots
+~Tothom decideix sempre tot
+~Decideix qui té més poder
+~No es vota mai
+}
+
+::B3-30:: Quin és un risc de decidir només per votació? {
+=Que la majoria ignori la minoria
+~Que no es pugui votar
+~Que tothom estigui d'acord
+~Que sigui massa lent
+}
+
+// Sessió 22: Drets humans i drets de l'infant
+::B3-31:: Què vol dir que els drets humans són universals? {
+=Són per a totes les persones
+~Només per als adults
+~Només per als ciutadans d'un país
+~Només per als qui compleixen les normes
+}
+
+::B3-32:: Què reconeix la Convenció sobre els Drets de l'Infant? {
+=Que els infants són persones amb drets
+~Que els infants no tenen drets
+~Que només cal protegir-los
+~Que depenen dels adults per tenir drets
+}
+
+::B3-33:: Què ha de guiar les decisions que afecten un infant? {
+=El seu interès superior
+~La comoditat dels adults
+~La decisió de la majoria
+~El que sigui més econòmic
+}
+
+// Sessió 23: Desigualtat econòmica i lluita contra la pobresa
+::B3-34:: Què és l'exclusió social? {
+=Quedar fora de la vida social, econòmica o política
+~Viure en una ciutat gran
+~Tenir poc temps lliure
+~Estar sol de vegades
+}
+
+::B3-35:: Una causa possible de la pobresa és... {
+=Feines precàries i el preu de l'habitatge
+~La mandra de les persones
+~La mala sort
+~Ser jove
+}
+
+::B3-36:: Què vol dir comerç just? {
+=Un comerç que paga preus justos als productors
+~Un comerç que només ven barat
+~Un comerç sense botigues
+~Un comerç sense impostos
+}
+
+// Sessió 24: Violència contra les dones i igualtat de gènere (I)
+::B3-37:: Què és un estereotip de gènere? {
+=Una idea simplificada sobre com han de ser homes i dones
+~Una llei sobre igualtat
+~Un tipus d'empresa
+~Una opinió sempre certa
+}
+
+::B3-38:: Quina d'aquestes és una conducta de control en una relació? {
+=Vigilar el mòbil i decidir amb qui pots parlar
+~Preguntar com ha anat el dia
+~Regalar flors
+~Fer un comentari amable
+}
+
+::B3-39:: De qui és la culpa de la violència de gènere? {
+=De qui l'exerceix, mai de qui la pateix
+~De qui la pateix
+~De les dues persones per igual
+~De la societat sense responsabilitat personal
+}
+
+// Sessió 25: Relacions saludables i prevenció (II)
+::B3-40:: Què caracteritza una relació saludable? {
+=Respecte, confiança, igualtat i capacitat de dir que no
+~Control i gelosia
+~Imposar sempre el que vol una persona
+~Aïllar la parella
+}
+
+::B3-41:: «Qui t'estima et fa plorar». Aquesta frase és... {
+=Un mite que justifica el maltractament
+~Una veritat universal
+~Una mostra d'amor
+~Un consell útil
+}
+
+::B3-42:: Què pot fer una persona espectadora activa? {
+=Interrompre, acompanyar o avisar un adult, sense posar-se en perill
+~Mirar cap a una altra banda
+~Riure's de la broma
+~Gravar-ho i publicar-ho
+}
+
+// Sessió 26: Diversitat, discriminació i drets LGTBIQ+
+::B3-43:: Què és la discriminació? {
+=Tractar desigualment una persona per un prejudici
+~Una opinió personal sense conseqüències
+~Una broma sempre inofensiva
+~Un desacord d'opinions
+}
+
+::B3-44:: Quins drets tenen les persones LGTBIQ+? {
+=Els mateixos drets humans que les altres
+~Menys drets
+~Drets diferents
+~Drets només en privat
+}
+
+::B3-45:: Què vol dir un entorn segur? {
+=Un entorn on ningú ha d'amagar qui és per por
+~Un entorn amb moltes normes
+~Un entorn sense converses
+~Un entorn només per a un grup
+}
+
+// Sessió 27: Pau, institucions internacionals i ONG
+::B3-46:: Què és la pau segons la sessió? {
+=Absència de guerra, més justícia, drets i cooperació
+~Només l'absència de guerra
+~Que tothom pensi igual
+~Que no hi hagi desacords
+}
+
+::B3-47:: Què són els ODS? {
+=Objectius de l'Agenda 2030 per a un món més just i sostenible
+~Normes de convivència de l'institut
+~Un partit polític
+~Un fons de pensions
+}
+
+::B3-48:: Quina limitació té un organisme internacional com l'ONU? {
+=Depèn dels estats i no sempre pot imposar decisions
+~No té cap limitació
+~Només actua en un país
+~No s'ha de revisar mai
+}
+
+// Sessió 28: Debat sobre una qüestió ètica d'actualitat
+::B3-49:: Què és un atac personal en un debat? {
+=Desqualificar qui parla en lloc de respondre el seu argument
+~Citar una font
+~Fer una pregunta
+~Reconèixer un error
+}
+
+::B3-50:: Una bona tesi ha d'anar acompanyada de... {
+=Una raó i una prova
+~Un insult
+~Una opinió igual que la de tothom
+~Cap explicació
+}
+
+::B3-51:: Què vol dir «tothom ho fa»? {
+=Una fal·làcia\: que sigui majoritari no la fa correcta
+~Una prova científica
+~Un argument sòlid
+~Una llei
+}
+
+$CATEGORY: Temari VCE4/04 Producte final
+
+// Sessió 29: Revisem el diari i fem el guió del producte final
+::B4-01:: Quin pes té el producte final a la nota de la matèria? {
+=50 per cent
+~20 per cent
+~80 per cent
+~100 per cent
+}
+
+::B4-02:: Quines tres preguntes ha de respondre el producte final? {
+=Què he fet, què he aportat i què he après
+~Què he llegit, què he copiat i què he entregat
+~Què he menjat, què he dit i què he cobrat
+~Què m'ha agradat, què no i què farem
+}
+
+::B4-03:: Quan es poden usar fotografies del servei a la presentació? {
+=Només si hi ha autorització
+~Sempre
+~Si surten bé
+~Si no surt cap cara
+}
+
+// Sessió 30: La memòria (I): què hem fet
+::B4-04:: Què inclou una descripció? {
+=Què, qui, quan, on i com
+~Només opinions
+~Només el que ens va agradar
+~Només el que va sortir malament
+}
+
+::B4-05:: Què cal evitar a la diapositiva? {
+=Massa text
+~Imatges clares
+~Títols
+~Esquemes
+}
+
+::B4-06:: Pots escriure el nom complet d'un nen atès? {
+=No, cal protegir la seva privacitat
+~Sí, queda més real
+~Sí, si és amic
+~Només el cognom
+}
+
+// Sessió 31: La memòria (II): què hem aportat
+::B4-07:: Què és l'impacte d'un servei? {
+=El canvi que ha produït, encara que sigui petit
+~Les hores que s'hi han fet
+~La nota que en traiem
+~El nombre de fotos
+}
+
+::B4-08:: Quina és una evidència d'impacte? {
+=Una valoració de l'entitat o un registre d'activitats
+~Una opinió sense proves
+~Un rumor
+~Una cadena de missatges
+}
+
+::B4-09:: Què inclou una avaluació honesta? {
+=Què ha anat bé, què no i què faríem diferent
+~Només els èxits
+~Només els errors
+~Res, perquè no cal valorar
+}
+
+// Sessió 32: La memòria (III): què hem après
+::B4-10:: Aprendre és... {
+=Canviar la manera de pensar, sentir o actuar
+~Memoritzar sense entendre
+~Acumular fotocòpies
+~Copiar un text
+}
+
+::B4-11:: Quina frase mostra reflexió pròpia? {
+=Abans pensava que... i ara penso que...
+~Hem fet una activitat
+~Es va fer a les cinc
+~Tothom va ajudar
+}
+
+::B4-12:: Per què tornar a la primera entrada del diari? {
+=Per comparar el punt de partida amb el d'arribada
+~Per esborrar-la
+~Per copiar-la
+~Perquè no hi ha cap altra entrada
+}
+
+// Sessió 33: Preparem la presentació oral
+::B4-13:: Quina és la durada de l'exposició per grup? {
+=8-10 minuts
+~30 minuts
+~1 minut
+~Sense límit
+}
+
+::B4-14:: Què cal fer amb la diapositiva? {
+=Explicar-la, no llegir-la tota
+~Llegir-la paraula per paraula
+~Ignorar-la
+~Posar-hi molt text
+}
+
+::B4-15:: Com s'ha de repartir el temps entre els membres del grup? {
+=Aproximadament de manera igual
+~Que parli només una persona
+~Que parli qui sap més
+~Que ningú parli
+}
+
+// Sessió 34: Exposicions orals (I)
+::B4-16:: Què fem mentre un grup exposa? {
+=Escoltem amb atenció i sense mòbils
+~Preparem l'exposició pròpia
+~Parlem amb el veí
+~Mirem les xarxes
+}
+
+::B4-17:: Com han de ser els comentaris? {
+=Respectuosos i constructius
+~Crítics sense límit
+~Només negatius
+~Inexistents
+}
+
+::B4-18:: Què es valora del suport visual? {
+=Que sigui clar, ordenat i amb poc text
+~Que tingui molts colors
+~Que tingui molt text
+~Que es llegeixi sencer
+}
+
+// Sessió 35: Exposicions orals (II) i cloenda del curs
+::B4-19:: Què inclou el tancament del diari? {
+=Portada, índex, apartats, entrades i reflexió final
+~Només la portada
+~Només les últimes entrades
+~Res, ja s'ha entregat
+}
+
+::B4-20:: Què és una mostra de reconeixement a final de curs? {
+=Agrair a entitats, persones ateses i companys
+~Criticar
+~Ignorar el procés
+~Esborrar el diari
+}
+
+::B4-21:: Què vol dir comparar amb la sessió 1? {
+=Veure què ha canviat des del punt de partida
+~Repetir els mateixos exercicis
+~Copiar la primera entrada
+~Esborrar el diari
+}
+
